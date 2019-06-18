@@ -37,3 +37,19 @@
 项目：[lihuaweishiyigehaoren](https://github.com/lihuaweishiyigehaoren)/**ModernProductPlant**
 
 准备材料：moduo多线程那本书，redis原理那本书，mysql那本书，linux内核那本书，mqtt源码，canopen源码
+
+待结题
+
+
+
+### 20190618
+
+#### 总结:范蠡的后台开发必备知识
+
+#### 看: 晓华老师的递归和动态规划和图部分
+
+#### 写atoi源码-剑之offer,写在算法那部分总结
+
+#### 搞项目:服务器
+
+#### 简历总结投递工作
